@@ -1,0 +1,9 @@
+从github下载项目:
+git clone https://github.com/hanjiaman/2018-11-22-.git
+
+上传一个新文件test.txt:
+git add test.txt
+git commit //填写上传的说明. 此时文件还在本地
+git push origin master //将文件推送到github服务器上
+
+
